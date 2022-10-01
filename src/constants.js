@@ -9,8 +9,8 @@ export const WOMAN_GROUP_ID = 187253745;
 export const USER_ID = Number(
   new URLSearchParams(document.location.search).get("vk_user_id")
 );
-export const NAME_PROJECT = "results-year-1";
-export const NAME_PROJECT_LOWER_CASE = "results-year-1";
+export const NAME_PROJECT = "results-year-2";
+export const NAME_PROJECT_LOWER_CASE = "results-year-2";
 export const APP_IMG_SHARING_STORIES = [
   // man
   "https://sun9-88.userapi.com/impg/nnp3dubEr0Pqx12CSIEsx1SoZcNIfRTdlA9jPg/r7bc6R26uY4.jpg?size=607x1080&quality=96&sign=916a03828e6503f6d9eb05f4e76db7fd&type=album",
