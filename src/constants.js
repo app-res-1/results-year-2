@@ -1,6 +1,6 @@
 export const rootUrl = "https://top1bot.ru/photo-upload";
 export const notifyUrl = "https://top1bot.ru/app-notify-two";
-export const APP_ID_DEFAULT = 51395386;
+export const APP_ID_DEFAULT = 51439710;
 // (рассылка мужчины ждем ссылку)
 export const MAN_GROUP_ID = 207161988;
 // (рассылка женщины ждем ссылку)
